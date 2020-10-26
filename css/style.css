@@ -119,8 +119,7 @@ body, html {
 }
 body {
     background-color: #fff;
-    /* font-family: "Roboto", sans-serif; */
-    
+    font-family: "Yrsa", serif !important;
     font-size: 16px;
     font-weight: 400;
     color:#6f6f6f;
@@ -4482,7 +4481,7 @@ blockquote:before {
 	 height: 220px;
 }
 .dlab-bnr-inr {
-    height: 220px;
+    height: 300px;
     background-size: cover;
     background-position: center center;
     display: table;
@@ -13495,7 +13494,7 @@ ol.commentlist li .star-rating {
 }
 .content-inner{
 	padding-top:80px;
-	padding-bottom:50px;
+	padding-bottom:80px;
 }
 .content-inner-1{
 	padding-top:80px;
