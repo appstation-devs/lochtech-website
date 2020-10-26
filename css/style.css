@@ -4113,10 +4113,10 @@ blockquote:before {
 .header-transparent .header-nav .nav > li > a,
 .header-transparent .extra-nav .site-button-link,
 .header-transparent .navbar-toggler {
-    color: #fff;
+    color: rgb(228, 127, 144) 25, 28);
 }
 .header-transparent .navbar-toggler span{
-    background-color: #fff;
+    background-color: #F22D4E;
 }
 .header-transparent .is-fixed .main-bar{
 	position:fixed;

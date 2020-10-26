@@ -147,3 +147,12 @@ li:after {
   z-index: 1;
   margin-bottom: 15px;
 }
+
+@media only screen and (max-width: 991px){
+  .header-transparent .header-nav .nav > li > a:hover, .navstyle3 .header-nav .nav>li.active>a {
+		color: #ec3239 !important;
+  }
+  .li_signin__btn {
+    margin: 0 !important;
+  }
+}
